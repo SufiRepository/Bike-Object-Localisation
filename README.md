@@ -1,3 +1,3 @@
 # Bike-Object-Localisation
 
-This is a deep learning projects for object localisation in video format.
+This is a deep learning group projects about bike detection using object detection CNN.
