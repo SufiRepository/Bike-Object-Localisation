@@ -1,6 +1,6 @@
 # Bike-Object-Localisation
 
-This is a deep learning group projects about bike detection using object detection CNN.
+This is a deep learning group projects about bike detection using object detection CNN - pretrained YOLO.
 
 # Introduction
 
