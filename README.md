@@ -27,3 +27,17 @@ Factors contributing to the complexity of the problem include appearance similar
 # Possible Improvement
 
 For improving the performance of YOLO detector, the detector should be trained with a larger dataset. Therefore, it is better to collect more cyclist data for future training. Monitoring systems presented in the literature are designed to work under the day light conditions. Enhancing the ability of the system to detect and track cyclists at night by analyzing thermal images.
+
+# Dataset  : 
+
+https://www.kaggle.com/johnmdennis/mountain-bikes?select=download+%2841%29.jpg  (mountain bike)
+
+https://drive.google.com/file/d/1_x_Nqpjtvxp22ADExyumrRbawC9O4FCE/view?usp=sharing   (general bicycle)
+
+# Reference
+
+https://github.com/brandonjabr/darknet-YOLO-V2-example
+https://www.researchgate.net/profile/Farideh_Foroozandeh_Shahraki2/publication/341256204_Cyclist_Detection_Tracking_and_Trajectory_Analysis_in_Urban_Traffic_Video_Data/links/5eb5fbeb92851cd50da3934c/Cyclist-Detection-Tracking-and-Trajectory-Analysis-in-Urban-Traffic-Video-Data.pdf
+https://carpenterlab.broadinstitute.org/blog/annotating-images-with-cellprofiler-and-gimp
+https://www.researchgate.net/publication/337464355_OBJECT_DETECTION_AND_IDENTIFICATION_A_Project_Report
+
